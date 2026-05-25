@@ -79,8 +79,6 @@ This project aims to solve that problem through intelligent financial analysis a
 ## Team Members
 
 * Parth Sunklod
-* Yash Talape
-* Varun Goyal
 
 ---
 
